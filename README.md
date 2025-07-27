@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Theertha Santhosh</h1>
 <h3 align="center">CSE Undergrad | Flutter & Web Dev Enthusiast | Passionate about AI & Innovation</h3>
 
-<img align="right" alt="coding-girl" width="400" src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Theertha-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="theerthasanthosh" /> </p>
 
