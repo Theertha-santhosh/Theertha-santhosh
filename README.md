@@ -1,4 +1,5 @@
-![MasterHead](./github-banner.png)
+![GitHub Banner](banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Theertha Santhosh</h1>
 <h3 align="center">CSE Undergrad | Flutter & Web Dev Enthusiast | Passionate about AI & Innovation</h3>
