@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding-girl" width="400" src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theerthasanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="theerthasanthosh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Theertha-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="theerthasanthosh" /> </p>
 
 - 👩‍💻 I’m a 3rd year B.Tech CSE student at **NSS College of Engineering, Palakkad**
 
@@ -22,7 +22,7 @@
 - 📝 I occasionally write about my learnings & project updates  
   <!-- (You can add Medium or Dev.to link here if you publish later) -->
 
-- 📫 How to reach me: **theerthasanthosh@gmail.com**
+- 📫 How to reach me: **theerthasanthosh103@gmail.com**
 
 ---
 
@@ -50,9 +50,9 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerthasanthosh&show_icons=true&locale=en&layout=compact" alt="theerthasanthosh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theertha-santhosh&show_icons=true&locale=en&layout=compact" alt="theerthasanthosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theerthasanthosh&show_icons=true&locale=en" alt="theerthasanthosh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Theertha-santhosh&show_icons=true&locale=en" alt="theerthasanthosh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theerthasanthosh&" alt="theerthasanthosh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theertha-santhosh&" alt="theerthasanthosh" /></p>
 
