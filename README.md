@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Theertha-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="theerthasanthosh" /> </p>
 
-- 👩‍💻 I’m a 3rd year B.Tech CSE student at **NSS College of Engineering, Palakkad**
+- 👩‍💻 I’m a 4th year B.Tech CSE student at **NSS College of Engineering, Palakkad**
 
 - 🚀 Currently building projects in **Flutter, React, AI/ML, and Blockchain**
 
