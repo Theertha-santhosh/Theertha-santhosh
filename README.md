@@ -48,12 +48,5 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theertha-santhosh&show_icons=true&locale=en&layout=compact" alt="theerthasanthosh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Theertha-santhosh&show_icons=true&locale=en" alt="theerthasanthosh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theertha-santhosh&" alt="theerthasanthosh" /></p>
 
